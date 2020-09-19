@@ -26,4 +26,4 @@ Your entire project MUST COMPILE without errors.
   * Do I have to complete the test to pass?
       * No, work on the test IN ORDER, and complete as much as you can
   * Am I allowed to take a break?
-     * Yes, take as many breaks as you like. However do not talk to anyone about the test.	# ThisIsWhyYouShouldReadTheBook
+     * Yes, take as many breaks as you like. However do not talk to anyone about the test.
