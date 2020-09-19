@@ -1,0 +1,10 @@
+.idea/
+
+ThisIsWhyYouShouldReadTheBook.iml
+
+#maven build target
+target/
+
+.project
+.classpath
+.settings
