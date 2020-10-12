@@ -20,12 +20,17 @@ public class IntegerArrayUtilities {
     }
 
     // Not included in the Part 1 specifications
-//    public Integer getSumOfFirstTwo(Integer[] array) {
-//        return null;
-//    }
-//
-//    public Integer getProductOfFirstTwo(Integer[] array) {
-//        return null;
-//    }
+   public Integer getSumOfFirstTwo(Integer[] array) {
+        Integer sum;
+        sum = array[0] + array[1];
+
+       return sum;
+    }
+
+    public Integer getProductOfFirstTwo(Integer[] array) {
+        Integer product;
+        product = array[array.lenght-2] * array[array.length-1];
+            return product;
+    }
 
 }
