@@ -21,10 +21,14 @@ public class BasicUtilities {
     }
 
    // Not included in the Part 1 specifications
-//    public Boolean startsWith(String string, Character character) {
-//    	
-//    	
-//        return null;
-//    }
+    public Boolean startsWith(String string, Character character) {
+    	boolean startsWith = false;
+    	String strCheck = string.charAt(0) + "";
+		String strChar = character + "";
+		if(strCheck.equalsIgnoreCase(strChar)){
+			startsWith = true;}
+		return startsWith;
+
+		}
 
 }
